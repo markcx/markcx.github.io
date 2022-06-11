@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{download.html}, nofooter
+= Download Page
+
+Multi-Armed Bandit Learning [https://web.stanford.edu/~markcx/sample-project/MABLearning_1.0.tar.gz R-package]  [https://web.stanford.edu/~markcx/sample-project/MAB_summary_XChen.pdf pdf]
+ - toy cases [http://stanford.edu/~markcx/sample-project/TS_toy/demo.zip examples] [http://stanford.edu/~markcx/sample-project/TS_toy/TS_sampling_demo.pdf pdf1]
+
+Online Resource Allocation [https://web.stanford.edu/~markcx/sample-project/Online_Linear_Programming_and_Resource_Allocation.pdf pdf]
+
+Detecting Treatment Effects [https://web.stanford.edu/~markcx/sample-project/Detect_Treatment_Effect_XChen.pdf pdf]
+
+Realtime Control of Distributed Energy Resources [https://web.stanford.edu/~markcx/sample-project/Real_time_control_of_non_convex_and_stochastic_energy_resources.pdf pdf] 
+
+Meta Learning for images [https://web.stanford.edu/~markcx/sample-project/CS231N_project_metaLearning.pdf pdf]
+  

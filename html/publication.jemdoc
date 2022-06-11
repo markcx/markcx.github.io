@@ -1,0 +1,55 @@
+# jemdoc: menu{MENU}{publication.html}, nofooter
+= Publication
+
+The updated collection is available at [https://scholar.google.com/citations?hl=en&user=HaP8HPYAAAAJ&view_op=list_works&sortby=pubdate google scholar].
+
+== Preprints 
+: {[ Fairness-Aware Demand Response: Online Learning and Regret Analysis]} 
+ *Xiao Chen*, Hao Wang, Ram Rajagopal (submitted to IEEE Trans. Smart Grid) 
+
+: {[ Generating private data with user customization]} 
+ *Xiao Chen*, Thomas Navidi, Ram Rajagopal [https://arxiv.org/abs/2012.01467 \[arxiv\]] 
+
+
+== Selected Papers
+
+=== Journals 
+: {[ Constructing dynamic residential energy lifestyles using Latent Dirichlet Allocation]} 
+ *Xiao Chen*, Chad Zanocco, June Flora, Ram Rajagopal --- Applied Energy, 2022 [https://web.stanford.edu/~markcx/sample-project/LDA_Energy_Lifestyle_manuscript.pdf \[paper\]] 
+
+
+: {[ Energy Resource Control via Privacy Preserving Data]} 
+ *Xiao Chen*, Thomas Navidi, Ram Rajagopal. --- PSCC 2020: Special issue of Electric Power System Research (EPSR)
+
+: {[ Economic benefits of integrating solar-powered heat pumps into a CHP system]}
+ Jianxiao Wang, Haiwang Zhong, Chin-Woo Tan, *Xiao Chen*, Ram Rajagopal, Qing Xia, Chongqing Kang. --- IEEE Transactions on Sustainable Energy, 2018 
+
+: {[ Context-aware generative adversarial privacy]} 
+ Chong Huang, Peter Kairouz, *Xiao Chen*, Lalitha Sankar, Ram Rajagopal --- Entropy 19 (12), 656, 2017
+
+: {[ A Parking Sensing and Information System: Sensors, Deployment, and Evaluation]}
+ *Xiao Chen*, Zhen (Sean) Qian, Ram Rajagopal, Todd Stiers, Christopher Flores, Robert Kavaler,
+Floyd Williams III --- Transportation Research Record, 2016
+
+
+=== Conferences 
+: {[ Using Satellite Imagery to Automate Building Damage Assessment: A case study of the xBD dataset]}
+ *Xiao Chen* --- IISE 2020 Annual Conference (*/Best Student Paper Award/*) [https://www.iise.org/Details.aspx?id=15606 \[news link\]] [https://web.stanford.edu/~markcx/sample-project/IISE_Building_Damage_Detection_from_Satellite_Imagery.pdf  \[paper\]] 
+
+: {[ Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture]}
+ Hao Sheng, *Xiao Chen*, Jingyi Su, Ram Rajagopal, Andrew Ng --- CVPR 2020 Agriculture-Vision workshop
+
+: {[ Electric vehicle charging during the day or at night: A perspective on carbon emissions]}
+ *Xiao Chen*, Chin-Woo Tan, Sila Kiliccote, Ram Rajagopal. --- IEEE Power & Energy Society General Meeting, 2019
+
+: {[ Distributed generation of privacy preserving data with user customization]}
+ *Xiao Chen*, Thomas Navidi, Stefano Ermon, Ram Rajagopal. --- ICLR 2019 SafeML workshop
+
+: {[ Understanding Compressive Adversarial Privacy]} 
+ *Xiao Chen*, Peter Kairouz, Ram Rajagopal.  --- IEEE Conference on Decision and Control, 2018
+
+: {[ Infrastructure Quality Assessment in Africa using Satellite Imagery and Deep Learning]}
+ Barak Oshri, Annie Hu, Peter Adelson, *Xiao Chen*, Pascaline Dupas, Jeremy Weinstein, Marshall Burke, David Lobell, Stefano Ermon --- ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2018 
+
+: {[ Optimal Travel Time Displays for Dynamic Message Signs]} 
+ *Xiao Chen*, Fang He, Siriphong Lawphongpanich, Yafang Yin --- Transportation Research Broad 91th Annual Meeting, 2012. 
